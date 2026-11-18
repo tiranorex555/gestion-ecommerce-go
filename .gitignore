@@ -1,0 +1,11 @@
+# Archivos temporales y ejecutables de Go
+*.exe
+*.exe~
+*.test
+*.out
+/bin/
+/dist/
+# Configuración local
+.vscode/
+.idea/
+.DS_Store
